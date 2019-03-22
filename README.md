@@ -6,4 +6,4 @@ https://itunes.apple.com/us/app/macro-boa/id1399985321?mt=8
 
 
 # Build
-Please run pod install before building
+Please run pod install before building.
